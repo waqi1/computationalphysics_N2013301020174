@@ -6,3 +6,4 @@ the most important in class .I look forward to what a big change will happen to 
 the realationship between computer and phsics more.In this procee,I whish this class can be understood and used peoperly.Maybe,it can make
 phsics more easy to learn and we can sovle physical problem more easily,which is also the reason why I choose this class.Life is like a box
 of chocolate,you never know what you're goning to get,so is this class.What is worth mentioning is I like to eat chocolate.
+How about you?
