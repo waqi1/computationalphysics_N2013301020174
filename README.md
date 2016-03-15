@@ -7,3 +7,5 @@ the realationship between computer and phsics more.In this procee,I whish this c
 phsics more easy to learn and we can sovle physical problem more easily,which is also the reason why I choose this class.Life is like a box
 of chocolate,you never know what you're goning to get,so is this class.What is worth mentioning is I like to eat chocolate.
 How about you?
+作业3
+[作业3](https://github.com/waqi1/-3/blob/master/newWQ%201.py)
