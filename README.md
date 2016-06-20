@@ -20,3 +20,4 @@ How about you?
 [作业12](https://www.zybuluo.com/waqi/note/383561)
 [作业13](https://www.zybuluo.com/waqi/note/394632)
 [作业14](https://www.zybuluo.com/waqi/note/404062)
+[期末](https://github.com/waqi1/computationalphysics_N2013301020174/blob/master/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A.pdf)
